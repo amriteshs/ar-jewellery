@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: fcf54a88879b1f64495421f240975539
+timeCreated: 1510343436
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cap_11
+    100004: Cap_Cylinder
+    100006: Cap_Front_Extrude
+    100008: Cap_Front_Extrude_Rounding_1
+    100010: Cap_Front_Extrude_Rounding_1_Cap_1
+    100012: Cap_Front_Extrude_Rounding_2
+    100014: Cap_Front_Extrude_Rounding_2_Cap_2
+    100016: Cap_Subdivision_Surface_Sphere
+    400000: //RootNode
+    400002: Cap_11
+    400004: Cap_Cylinder
+    400006: Cap_Front_Extrude
+    400008: Cap_Front_Extrude_Rounding_1
+    400010: Cap_Front_Extrude_Rounding_1_Cap_1
+    400012: Cap_Front_Extrude_Rounding_2
+    400014: Cap_Front_Extrude_Rounding_2_Cap_2
+    400016: Cap_Subdivision_Surface_Sphere
+    2300000: Cap_11
+    2300002: Cap_Cylinder
+    2300004: Cap_Front_Extrude
+    2300006: Cap_Front_Extrude_Rounding_1
+    2300008: Cap_Front_Extrude_Rounding_1_Cap_1
+    2300010: Cap_Front_Extrude_Rounding_2
+    2300012: Cap_Front_Extrude_Rounding_2_Cap_2
+    2300014: Cap_Subdivision_Surface_Sphere
+    3300000: Cap_11
+    3300002: Cap_Cylinder
+    3300004: Cap_Front_Extrude
+    3300006: Cap_Front_Extrude_Rounding_1
+    3300008: Cap_Front_Extrude_Rounding_1_Cap_1
+    3300010: Cap_Front_Extrude_Rounding_2
+    3300012: Cap_Front_Extrude_Rounding_2_Cap_2
+    3300014: Cap_Subdivision_Surface_Sphere
+    4300000: Cap_11
+    4300002: Cap_Cylinder
+    4300004: Cap_Front_Extrude
+    4300006: Cap_Front_Extrude_Rounding_1
+    4300008: Cap_Front_Extrude_Rounding_1_Cap_1
+    4300010: Cap_Front_Extrude_Rounding_2
+    4300012: Cap_Front_Extrude_Rounding_2_Cap_2
+    4300014: Cap_Subdivision_Surface_Sphere
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_11Mat
+    second: {fileID: 2100000, guid: 2751f568dacab394c8f02589f1b1cea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_CylinderMat
+    second: {fileID: 2100000, guid: fa596a094833baa46bc5cd0ebd774eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Front_ExtrudeMat
+    second: {fileID: 2100000, guid: 55f853efc63d9544991ff1b785d93072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Front_Extrude_Rounding_1Mat
+    second: {fileID: 2100000, guid: 52185d32eeefbf04cab1bae91f3d6339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Front_Extrude_Rounding_1_Cap_1Mat
+    second: {fileID: 2100000, guid: 3a589b82b4b271f438d53aa4ffbc3628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Front_Extrude_Rounding_2Mat
+    second: {fileID: 2100000, guid: 72d1bc588b9a44f46862fbeca9f5c8fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Front_Extrude_Rounding_2_Cap_2Mat
+    second: {fileID: 2100000, guid: 69fce6a22bd94904ca2000385542d93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_Subdivision_Surface_SphereMat
+    second: {fileID: 2100000, guid: b4cb9496139a1fb408240b37cfcf9129, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
